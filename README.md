@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I am Knight-ZXW
+![Profile views](https://gpvc.arturio.dev/TheBotBox)
 
 <!--
-**Knight-ZXW/Knight-ZXW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TheBotBox/TheBotBox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
